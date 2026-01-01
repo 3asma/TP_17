@@ -1,0 +1,21 @@
+{
+  "name": "json-xml-protobuf-lab",
+  "version": "1.0.0",
+  "description": "Lab de comparaison JSON, XML et Protobuf",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "json",
+    "xml",
+    "protobuf",
+    "serialization"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xml-js": "^1.6.11",
+    "protobufjs": "^7.2.5"
+  }
+}
